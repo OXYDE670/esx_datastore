@@ -6,6 +6,4 @@
 
 3 **Inséré dans le server.cfg**, start esx_datastore
 
-**Crée par OXYDE#0001**
-
 **Voila vous avez réussi a placé un datastore bravo !**
